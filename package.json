@@ -14,7 +14,7 @@
     "file-system-cache": "^1.0.5",
     "node-cache": "^4.1.1",
     "optimist": "^0.6.1",
-    "request": "^2.83.0",
+    "request": "^2.88.0",
     "valid-url": "^1.0.9"
   },
   "scripts": {
